@@ -6,7 +6,7 @@ The notebooks are developed in collaboration with the [Center for Humanities Com
 
 * [Daniel Blumenkranz](https://github.com/daniblu)
 * [Tom Brughmans](https://pure.au.dk/portal/en/persons/t.b%40cas.au.dk)
-*
+* [Cèsar Carreras Monfort](https://orcid.org/0000-0003-4300-9470)
 
 ## Data
 The dataset used to create all figures is _Data\_amphorae\_20\_and\_Tarraconensis\_7-05-2024.csv_ located in the _data_ folder. This is tabular data in which each row represents a unique combination of an amphora type and an excavation site. 
